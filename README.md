@@ -52,7 +52,10 @@
   ```
 	
   <br />
-  <p>2. Exécutez le script.</p>
+  <p>2. Ouvrez un terminal et placez vous dans le dossier du projet.</p>
+	
+  <br />
+  <p>3. Exécutez le script.</p>
   
   ```bash
   python personadb.py
