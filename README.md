@@ -45,13 +45,19 @@
 <br />
 <div>
   <h2>Utilisation</h2>
-  <p>1. Exécutez le script.</p>
+  <p>1. En fonction de vos informations de connexion à votre base de données MySQL, éditer la ligne de code suivante dans le fichier "personadb.py"  :</p>
   
   ```bash
-  python personadb.py
+  conn = mysql.connector.connect(user='utilisateur', password='motdepasse', host='localhost', database='ma_base_de_donnees')
+  ```
+	
+  <br />
+  <p>2. Exécutez le script.</p>
+  
+  ```bash
+  python adbot.py
   ```
   
-  <br />
 </div>
 
 <br />
