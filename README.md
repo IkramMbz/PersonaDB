@@ -55,7 +55,7 @@
   <p>2. Exécutez le script.</p>
   
   ```bash
-  python adbot.py
+  python personadb.py
   ```
   
 </div>
