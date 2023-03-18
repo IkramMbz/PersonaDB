@@ -35,7 +35,9 @@
   ```
   
   <br />
-  <p>2. Installez les librairies requises.</p>
+  <p>2. Ouvrez un terminal et placez vous dans le dossier du projet.</p>
+	
+  <p>3. Installez les librairies requises.</p>
   
   ```bash
   pip install -r requirements.txt
@@ -50,12 +52,9 @@
   ```bash
   conn = mysql.connector.connect(user='utilisateur', password='motdepasse', host='localhost', database='ma_base_de_donnees')
   ```
-	
+
   <br />
-  <p>2. Ouvrez un terminal et placez vous dans le dossier du projet.</p>
-	
-  <br />
-  <p>3. Exécutez le script.</p>
+  <p>2. Exécutez le script.</p>
   
   ```bash
   python personadb.py
