@@ -14,7 +14,7 @@
     </a>
   </div>
   <br />
-  <p align="left">Le projet est aussi disponible sous forme de notebook Jupyter (.ipynb) dans le même répertoire que les fichiers sources.</p>
+  <p align="left">Le projet est aussi disponible sous forme de notebook Jupyter (PersonaDB.ipynb) dans le même répertoire que les fichiers sources.</p>
 </div>
 
 <br />
